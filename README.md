@@ -1,3 +1,17 @@
+Aplikasi Catat Lamaran Pekerjaan SICALAM
+ini dibuat menggunakan tools framework Laravel versi 10 dan TailwindCss terbaru untuk login page. terdapat 3 tabel yaitu tabel companies, jobs, dan application.
+2 tabel saling berkaitan atau berelasi. Sudah ada file db didalam folder projectnya.
+
+Langkah menjalankan.
+1. Buka terminal di vscode ketikan php artisan serve //untuk menjalankan laravel
+2. Buka terminal di vscode ketikan npm run dev //untuk menjalankan tailwindcss
+
+Username : admin@gmail.com
+Password : 12345678
+
+Silahkan unduh dan kembangkan lagi kawan-kawan :)
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
