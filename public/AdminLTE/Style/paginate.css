@@ -1,0 +1,25 @@
+  /* Custom styles for pagination */
+.pagination-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.pagination .page-link {
+    padding: 10px 15px;
+}
+
+.pagination .page-item {
+    display: inline-block;
+}
+
+/* Prevent images inside pagination links from being too large */
+.pagination img {
+    max-width: 20px;
+    height: auto;
+}
+
+.content-wrapper > .content
+{
+    padding: 2rem;
+}
